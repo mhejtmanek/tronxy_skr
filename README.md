@@ -1,3 +1,8 @@
+#####
+My modifications for Tronxy XY-2 PRO with bltouch
+Board : BTT SKR 1.4 Turbo with TMC2208 UART and BTT TFT35 v3.0
+
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
